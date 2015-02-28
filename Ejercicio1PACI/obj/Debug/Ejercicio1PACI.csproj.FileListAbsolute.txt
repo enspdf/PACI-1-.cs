@@ -1,0 +1,10 @@
+C:\Users\Sebastian-pc\Documents\visual studio\Ejercicio1PACI\Ejercicio1PACI\bin\Debug\Ejercicio1PACI.exe.config
+C:\Users\Sebastian-pc\Documents\visual studio\Ejercicio1PACI\Ejercicio1PACI\bin\Debug\Ejercicio1PACI.exe
+C:\Users\Sebastian-pc\Documents\visual studio\Ejercicio1PACI\Ejercicio1PACI\bin\Debug\Ejercicio1PACI.pdb
+C:\Users\Sebastian-pc\Documents\visual studio\Ejercicio1PACI\Ejercicio1PACI\obj\Debug\Ejercicio1PACI.Form1.resources
+C:\Users\Sebastian-pc\Documents\visual studio\Ejercicio1PACI\Ejercicio1PACI\obj\Debug\Ejercicio1PACI.Properties.Resources.resources
+C:\Users\Sebastian-pc\Documents\visual studio\Ejercicio1PACI\Ejercicio1PACI\obj\Debug\Ejercicio1PACI.csproj.GenerateResource.Cache
+C:\Users\Sebastian-pc\Documents\visual studio\Ejercicio1PACI\Ejercicio1PACI\obj\Debug\Ejercicio1PACI.exe
+C:\Users\Sebastian-pc\Documents\visual studio\Ejercicio1PACI\Ejercicio1PACI\obj\Debug\Ejercicio1PACI.pdb
+C:\Users\Sebastian-pc\Documents\visual studio\Ejercicio1PACI\Ejercicio1PACI\obj\Debug\Ejercicio1PACI.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian-pc\Documents\visual studio\Ejercicio1PACI\Ejercicio1PACI\obj\Debug\Ejercicio1PACI._2.resources
